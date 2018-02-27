@@ -1,0 +1,12 @@
+The requirements are as follows:
+1.  Allows users to access contact database while on the organization network
+2.  Allows more than one connections at a time
+3.  Allows users to add, edit, and remove contacts
+4.  Contacts must be able to be sorted alphabetically, via organization, country, and event
+5.  Users can export an email formatted address list from selected contacts
+
+Future requirements:
+1.  Provide authenication process
+2.  Host externally
+3.  Allow uploading of business cards to accompany the database
+4.  Provide a map where you can select a country and all the contacts from that country are selected
